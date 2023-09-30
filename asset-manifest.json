@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/voron2/static/css/main.7ba05704.css",
+    "main.js": "/voron2/static/js/main.5776e7f3.js",
+    "index.html": "/voron2/index.html",
+    "main.7ba05704.css.map": "/voron2/static/css/main.7ba05704.css.map",
+    "main.5776e7f3.js.map": "/voron2/static/js/main.5776e7f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ba05704.css",
+    "static/js/main.5776e7f3.js"
+  ]
+}
